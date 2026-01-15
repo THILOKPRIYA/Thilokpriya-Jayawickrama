@@ -8,12 +8,6 @@ Data Analyst in Training | Passionate About Data & Analytics | Sri Lanka
        alt="thilokpriya" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thilokpriya&margin-w=15&margin-h=15"
-         alt="thilokpriya trophies" />
-  </a>
-</p>
 
 ---
 
@@ -83,17 +77,6 @@ Data Analyst in Training | Passionate About Data & Analytics | Sri Lanka
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilokpriya&layout=compact&show_icons=true&locale=en"
-       alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=thilokpriya&show_icons=true&locale=en"
-       alt="GitHub Stats" />
-</p>
 
 <p>
   <img align="center"
