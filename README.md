@@ -74,12 +74,10 @@ Data Analyst in Training | Passionate About Data & Analytics | Sri Lanka
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=thilokpriya"
-       alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thilokpriya&show_icons=true&theme=github_dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=thilokpriya&theme=github-dark" />
 </p>
+
